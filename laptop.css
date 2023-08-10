@@ -14,7 +14,7 @@ img {
 
 .header-item {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(../images/banner2.jpg);
+    url(banner2.jpg);
   height: 100vh;
   background-size: cover;
 
@@ -51,7 +51,7 @@ nav::after {
   width: 150px;
   height: 150px;
   border-radius: 50%;
-  background-image: url(../images/myavatar.png);
+  background-image: url(myavatar.png);
   background-size: cover;
 
   /* Dieu chinh ve giua */
